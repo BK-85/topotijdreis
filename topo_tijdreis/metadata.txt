@@ -5,15 +5,15 @@
 [general]
 name=TopoTijdreis
 qgisMinimumVersion=3.0
-description=This plugin loads the historical maps from https://www.topotijdreis.nl into Qgis
-version=0.1
+description=This plugin loads all historic maps from 1815-2020 from topotijdreis.nl into QGIS
+version=1.0
 author=A.G.J. Hullegie
 email=ahullegie@gmail.com
 
-about=This plugin loads the historical maps from https://www.topotijdreis.nl into Qgis
+about=Qgis plugin that allows you to load all TopoTijdreis.nl map layers (1815-2020) into QGIS as a group.
 
-tracker=http://bugs
-repository=http://repo
+tracker=http://https://github.com/BK-85/topotijdreis
+repository=https://github.com/BK-85/topotijdreis
 # End of mandatory metadata
 
 # Recommended items:
@@ -25,11 +25,11 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=python
 
-homepage=http://homepage
-category=Web
+homepage=https://github.com/BK-85/topotijdreis
+category=Plugins
 icon=icon.png
 # experimental flag
-experimental=True
+experimental=False
 
 # deprecated flag (applies to the whole plugin, not just a single version)
 deprecated=False

@@ -1,11 +1,11 @@
 #/***************************************************************************
 # TopoTijdreis
 #
-# This plugin loads the historical maps from https://www.topotijdreis.nl into Qgis
+# This plugin loads all historic maps from 1815-2020 from topotijdreis.nl into QGIS
 #							 -------------------
-#		begin				: 2020-03-08
+#		begin				: 2022-08-09
 #		git sha				: $Format:%H$
-#		copyright			: (C) 2020 by A.G.J. Hullegie
+#		copyright			: (C) 2022 by A.G.J. Hullegie
 #		email				: ahullegie@gmail.com
 # ***************************************************************************/
 #
@@ -65,7 +65,7 @@ PEP8EXCLUDE=pydev,resources.py,conf.py,third_party,ui
 #	* Windows:
 #	  AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins'
 
-QGISDIR=C:\Users\EliteBook\AppData/Roaming/QGIS/QGIS3/profiles/default/python/plugins
+QGISDIR=C:\Users\ArjanHullegie\AppData/Roaming/QGIS/QGIS3/profiles/default/python/plugins
 
 #################################################
 # Normally you would not need to edit below here
