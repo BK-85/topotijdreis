@@ -6,7 +6,7 @@ Qgis plugin that allows you to load all TopoTijdreis.nl map layers (1815-2020) i
 
 ## Install instruction
 
-Open QGIS en navigate to Settings, profiles and click open active profile folder.
+•	Open QGIS en navigate to Settings, profiles and click open active profile folder.
 
 •	QGIS opens an explorer window to the appdata folder where your settings are stored.
 
