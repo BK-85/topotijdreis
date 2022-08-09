@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/topo_tijdreis" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
