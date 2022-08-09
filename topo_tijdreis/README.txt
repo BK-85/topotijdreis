@@ -1,10 +1,10 @@
 Plugin Builder Results
 
 Your plugin TopoTijdreis was created in:
-    C:/Users/EliteBook/Desktop\topo_tijdreis
+    C:/Users/ArjanHullegie/Desktop\topo_tijdreis
 
 Your QGIS plugin directory is located at:
-    C:/Users/EliteBook/AppData/Roaming/QGIS/QGIS3/profiles/Arjan/python/plugins
+    C:/Users/ArjanHullegie/AppData/Roaming/QGIS/QGIS3/profiles/default/python/plugins
 
 What's Next:
 
