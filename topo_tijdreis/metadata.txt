@@ -12,7 +12,7 @@ email=ahullegie@gmail.com
 
 about=Qgis plugin that allows you to load all TopoTijdreis.nl map layers (1815-2020) into QGIS as a group.
 
-tracker=http://https://github.com/BK-85/topotijdreis
+tracker=https://github.com/BK-85/topotijdreis/issues
 repository=https://github.com/BK-85/topotijdreis
 # End of mandatory metadata
 
