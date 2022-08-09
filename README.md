@@ -1,10 +1,10 @@
 # topotijdreis
 
-##TopoTijdreis Qgisplugin
+## TopoTijdreis Qgisplugin
 
 Qgis plugin that allows you to load all TopoTijdreis.nl map layers (1815-2020) into QGIS as a group.
 
-Install instruction
+## Install instruction
 
 Open QGIS en navigate to Settings, profiles and click open active profile folder.
 
